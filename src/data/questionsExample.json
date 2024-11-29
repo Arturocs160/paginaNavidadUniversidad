@@ -1,0 +1,58 @@
+[
+    {
+        "idPregunta": "1",
+        "pregunta": "¿En qué fecha se celebra la Navidad?",
+        "respuestaCorrecta": "25 de diciembre",
+        "respuesta2": "31 de diciembre",
+        "respuesta3": "6 de enero",
+        "respuesta4": "1 de enero"
+    },
+    {
+        "idPregunta": "2",
+        "pregunta": "¿Qué país es conocido por haber popularizado los árboles de Navidad decorados?",
+        "respuestaCorrecta": "Alemania",
+        "respuesta2": "Estados Unidos",
+        "respuesta3": "Inglaterra",
+        "respuesta4": "Italia"
+    },
+    {
+        "idPregunta": "3",
+        "pregunta": "¿Cómo se llama la planta que se cuelga y bajo la cual se besan las personas en Navidad?",
+        "respuestaCorrecta": "Muérdago",
+        "respuesta2": "Acebo",
+        "respuesta3": "Flor de Pascua",
+        "respuesta4": "Eucalipto"
+    },
+    {
+        "idPregunta": "4",
+        "pregunta": "¿Qué personaje entrega regalos a los niños en la tradición anglosajona?",
+        "respuestaCorrecta": "Santa Claus",
+        "respuesta2": "San Nicolás",
+        "respuesta3": "El Niño Jesús",
+        "respuesta4": "Los Reyes Magos"
+    },
+    {
+        "idPregunta": "5",
+        "pregunta": "¿Cómo se llama la canción navideña que menciona 'Noche de paz'?",
+        "respuestaCorrecta": "Noche de Paz",
+        "respuesta2": "Blanca Navidad",
+        "respuesta3": "Campanas de Belén",
+        "respuesta4": "Jingle Bells"
+    },
+    {
+        "idPregunta": "6",
+        "pregunta": "¿Qué representan las velas en la corona de Adviento?",
+        "respuestaCorrecta": "Las cuatro semanas de Adviento",
+        "respuesta2": "Los deseos de Navidad",
+        "respuesta3": "Las estrellas del cielo",
+        "respuesta4": "Los regalos de los Magos"
+    },
+    {
+        "idPregunta": "7",
+        "pregunta": "¿Cuál es el significado de la palabra 'Navidad'?",
+        "respuestaCorrecta": "Nacimiento",
+        "respuesta2": "Regalo",
+        "respuesta3": "Reunión",
+        "respuesta4": "Fiesta"
+    }
+]
